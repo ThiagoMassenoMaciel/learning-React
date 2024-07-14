@@ -1,0 +1,18 @@
+fica como desafio aqui eu integrar outra api com o pedaço que ja tinha do video . 
+  tem que readaptar a query que é enviada para api para eu consegir deixar no mínimo parecido com o do video que retorne apenas o texto em formato json
+
+  depois que eu consegui o basico eu faço o componente PokemonInfo retornar n somente o texto mais sim estilizado com nome e imagem
+
+  e outro desafio é deixar estilizado e podendo tmbm ser responsivo
+
+  tenho que organizar tmbm o primeiro pedaço feito do vidio desssa aula que tinha pouco código , por isso em outro html file
+
+  Assistir o video que ensina usar api pokemon 
+
+https://www.bing.com/search?pglt=2179&q=omo+usar+api+do+pokemon+%3F&cvid=69c845062a204ecdb337e807533e8010&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABhAMgYIAhAAGEDSAQg1NTM5ajBqMagCALACAA&FORM=ANNTA1&ucpdpc=UCPD&PC=LCTS
+
+
+Esta api encontrei em um dos comentários da aula 26 do Kent C Dodds 
+https://graphql-pokeapi.graphcdn.app/
+Achado link exemplo no readmi do git hub
+https://github.com/mazipan/graphql-pokeapi/blob/master/examples/02-use-fetch-post.js

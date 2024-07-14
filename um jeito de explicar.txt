@@ -1,0 +1,25 @@
+uma pessoa que quer um serviço pedir um livro na biblioteca
+
+  pessoa --------- biblioteca(Pratileira dos livros)
+  client---------- servidor
+
+
+  eu pessoa vou até a recepição e peço o bibliotecário para ele pegar um livro para mim 
+
+
+  pessoa --------- bibliotecário --------- Pratileira dos livros 
+
+  cliente ---------  navegador ----------- servidor 
+
+
+  livro seria minha promise 
+  o meu pedido do livro seria uma request 
+
+
+  se a bibliotecaria foi até a pratileira e n achou o livro que eu pedi , ela não iria trazer outro livro 
+
+  tá aí a explicação do porque o navegador so entrega a resposta do servidor para o cliente se tiver mode : no-cors | cors , igual do header de quem pediu 
+
+
+
+  

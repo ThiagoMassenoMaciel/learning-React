@@ -4,7 +4,7 @@
 
 #
 #### aula 3 
-[copiar este projeto simples](https://www.dataformsjs.com/examples/hello-world/en/react.htm) tirei este projeto deste post [dev.](https://dev.to/kokaneka/react-development-using-just-a-single-file-5e65)
+[copiar este projeto simples](https://www.dataformsjs.com/examples/hello-world/en/react.htm) tirei este projeto deste post [dev.](https://dev.to/kokaneka/react-development-using-just-a-single-file-5e65) ler [mais](https://dev.to/kokaneka/react-development-using-just-a-single-file-5e65#:~:text=The%20reason%20I,react.js.org/)
 
 # Each Class vid 
 #### aula 26 -> demorei 5h

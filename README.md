@@ -1,5 +1,5 @@
 # learning-React
-escrever blogs neste site , so que eu traduzo para o português [dev.to](https://dev.to/) e postar isso no meu likedin
+escrever blogs neste site , so que eu traduzo para o português [dev.to](https://dev.to/) e postar isso no meu likedin</br>
 aprender mais sobre esse conteudo nas horas vagas [build react](https://create-react-app.dev/docs/production-build/)
 #### link do curso [aqui](https://egghead.io/lessons/react-make-http-requests-with-react-e06e2e96)
 [aprender procurar unpkg react](https://legacy.reactjs.org/docs/optimizing-performance.html#single-file-builds:~:text=Single%2DFile%20Builds,dom.production.min.js%22%3E%3C/script%3E)
